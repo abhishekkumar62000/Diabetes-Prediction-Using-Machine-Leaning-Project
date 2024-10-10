@@ -1,7 +1,4 @@
 # Diabetes-Prediction-Using-Machine-Leaning-Project
-Diabetes  Prediction Using Machine Leaning Project
-
-
 ![Picsart_24-08-26_18-17-31-894](https://github.com/user-attachments/assets/0bb5efce-538c-4289-b41e-cd4473016080)
 
 ![Picsart_24-08-26_18-20-21-054](https://github.com/user-attachments/assets/f338580e-7043-4d36-bcdc-122658e6a90e)
